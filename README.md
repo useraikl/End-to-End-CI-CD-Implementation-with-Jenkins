@@ -244,3 +244,8 @@ Visit [http://<ec2-ip>:<node-port>](http://<ec2-ip>:<node-port>).
 
 Congratulations! 🎊 You’ve successfully set up a comprehensive CI/CD pipeline for Java applications using Jenkins, Docker, Kubernetes, and ArgoCD. Your pipeline is now capable of automating the build, test, and deployment processes, ensuring efficient and reliable application delivery.
 
+For further customization or advanced features, consult the documentation for Jenkins, Docker, Kubernetes, and ArgoCD.
+
+Happy coding! 🚀✨
+
+---
