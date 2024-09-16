@@ -246,6 +246,4 @@ Congratulations! 🎊 You’ve successfully set up a comprehensive CI/CD pipelin
 
 For further customization or advanced features, consult the documentation for Jenkins, Docker, Kubernetes, and ArgoCD.
 
-Happy coding! 🚀✨
-
 ---
