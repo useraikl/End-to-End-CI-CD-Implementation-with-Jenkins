@@ -9,7 +9,7 @@ pipeline {
     stage('Checkout') {
       steps {
         sh 'echo passed'
-        //git branch: 'main', url: 'https://github.com/payal-daki/End-to-End-CI-CD-Implementation-with-Jenkins"'
+        //git branch: 'main', url: 'https://github.com/useraikl/End-to-End-CI-CD-Implementation-with-Jenkins"'
       }
     }
     stage('Build and Test') {
